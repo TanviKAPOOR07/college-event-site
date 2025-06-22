@@ -1,6 +1,6 @@
 ## 🌐 Live Demo
 
-[Click here to view the website](https://guileless-llama-4cdbe3.netlify.app)
+[Click here to view the website](https://app.netlify.com/projects/inspiring-belekoy-802d52)
 
 # college-event-site
 
