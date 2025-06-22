@@ -1,3 +1,7 @@
+## 🌐 Live Demo
+
+[Click here to view the website](https://codesphere-2025.netlify.app)
+
 # college-event-site
 
 React website for CodeSphere 2025 Hackathon
