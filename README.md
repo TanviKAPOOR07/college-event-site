@@ -1,6 +1,6 @@
 ## 🌐 Live Demo
 
-[Click here to view the website](https://codesphere-2025.netlify.app)
+[Click here to view the website](https://guileless-llama-4cdbe3.netlify.app)
 
 # college-event-site
 
